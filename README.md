@@ -23,14 +23,8 @@ Responsividade: Design adaptado para diferentes tamanhos de tela (desktop, table
 
 <h2>📂 Estrutura do Projeto</h2>
 
-portfolio/
-│
-├── index.html         # Arquivo principal do portfólio
-├── style.css          # Arquivo de estilos do portfólio
-├── script.js          # Arquivo JavaScript para interatividade
-├── assets/            # Imagens, ícones e outros recursos
-├── README.md          # Documentação do projeto
-└── LICENSE            # Licença do projeto (opcional)
+![Screenshot_1](https://github.com/user-attachments/assets/4981fe98-5418-4502-9af1-6a74acd4fb47)
+
 
 <h2>🔧 Como Usar</h2>
 
