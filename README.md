@@ -31,7 +31,8 @@ Responsividade: Design adaptado para diferentes tamanhos de tela (desktop, table
 Clone este repositório:
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-portfolio.git
+git clone https://github.com/RudeNero/portfolio-novo.git
+
 Abra o arquivo index.html no navegador para visualizar o portfólio localmente ou acesse portfolio-rudenero-psi.vercel.app para a versão online.
 
 <h2>✍️ Autor</h2>
